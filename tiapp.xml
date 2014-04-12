@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><ti:app xmlns:ti="http://ti.appcelerator.org">
+	<id>test.whatsup</id>
+	<name>whatsup</name>
+	<version>1.0</version>
+	<publisher>not specified</publisher>
+	<url>http://fokkezb.nl</url>
+	<description>not specified</description>
+	<copyright>not specified</copyright>
+	<icon>appicon.png</icon>
+	<fullscreen>false</fullscreen>
+	<navbar-hidden>false</navbar-hidden>
+	<analytics>false</analytics>
+	<guid>e794ae95-e7f2-4a1e-90b7-e5474b3b4e6a</guid>
+	<property name="ti.ui.defaultunit" type="string">dp</property>
+	<deployment-targets>
+		<target device="android">true</target>
+		<target device="blackberry">false</target>
+		<target device="ipad">true</target>
+		<target device="iphone">true</target>
+		<target device="mobileweb">false</target>
+		<target device="tizen">false</target>
+	</deployment-targets>
+	<sdk-version>3.2.2.GA</sdk-version>
+	<plugins>
+		<plugin version="1.0">ti.alloy</plugin>
+	</plugins>
+</ti:app>
