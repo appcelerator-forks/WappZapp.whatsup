@@ -7,7 +7,7 @@
 
     <Button top="50" onClick="test" model="Mads">Using Mads his adapter</Button>
 
-    <Button top="50" onClick="test" model="Old">Using older adapter</Button>
+    <Button top="50" onClick="test" model="Old">Using last non-coffeee adapter</Button>
 
   </Window>
 </Alloy>
