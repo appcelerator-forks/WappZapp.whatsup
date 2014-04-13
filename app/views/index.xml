@@ -1,11 +1,13 @@
 <Alloy>
 	<Window backgroundColor="white" layout="vertical">
 
-    <Button top="100" onClick="test" model="List">Reproduce bug</Button>
+    <Button top="50" onClick="test" model="List">Reproduce bug</Button>
 
-    <Button top="100" onClick="test" model="Col">Don't add to collection</Button>
+    <Button top="50" onClick="test" model="Col">Don't add to collection</Button>
 
-    <Button top="100" onClick="test" model="Mads">Using Mads his adapter</Button>
+    <Button top="50" onClick="test" model="Mads">Using Mads his adapter</Button>
+
+    <Button top="50" onClick="test" model="Old">Using older adapter</Button>
 
   </Window>
 </Alloy>
